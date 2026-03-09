@@ -1,0 +1,4 @@
+.aboutblank{background-color:rgb(205, 141, 241);padding:20px;display:flex;font-size: xx-large;justify-content: space-between;border-radius: 20px;}
+a{text-decoration: none;color:rgb(204, 45, 45)}
+.mylistitems{list-style:none;font-style: italic;color:rgb(38, 4, 102);}
+.logo{height:50px;width: auto;}
